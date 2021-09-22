@@ -6,7 +6,7 @@ int main() {
 
 	cout << "Hello World!" << endl;
 	//TEST
-	//TESTTTTTTTT
+	//TEST2
 	system("PAUSE");
 	return 0;
 }
