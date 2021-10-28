@@ -1,8 +1,8 @@
 #pragma once
 #include <iostream>
 #include "MyString.h"
-#include "../../XanderDelpin/Computer-Programming-II/Type/MyTime.h"
-#include "../../XanderDelpin/Computer-Programming-II/Type/MyDate.h"
+#include "MyTime.h"
+#include "MyDate.h"
 #include "ListaDeCadenas.h"
 using namespace std;
 
