@@ -139,12 +139,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\XanderDelpin\Computer-Programming-II\Type\MyDate.cpp" />
+    <ClCompile Include="..\..\XanderDelpin\Computer-Programming-II\Type\MyTime.cpp" />
+    <ClCompile Include="Exam.cpp" />
+    <ClCompile Include="ExamGenerator.cpp" />
     <ClCompile Include="ListaDeCadenas.cpp" />
     <ClCompile Include="MyMenu.cpp" />
     <ClCompile Include="MyString.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\XanderDelpin\Computer-Programming-II\Type\MyDate.h" />
+    <ClInclude Include="..\..\XanderDelpin\Computer-Programming-II\Type\MyTime.h" />
+    <ClInclude Include="Exam.h" />
+    <ClInclude Include="ExamGenerator.h" />
     <ClInclude Include="ListaDeCadenas.h" />
     <ClInclude Include="MyMenu.h" />
     <ClInclude Include="MyString.h" />
