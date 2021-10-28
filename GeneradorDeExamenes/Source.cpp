@@ -19,6 +19,7 @@ int main() {
 	//.showTime();
 	ExamGenerator eg1(e1);
 	eg1.askInfoAndGenerate();
+	//eg1.generate();
 
 	system("PAUSE");
 	return 0;

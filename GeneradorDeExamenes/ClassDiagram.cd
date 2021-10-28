@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyDate">
+    <Position X="7.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AEAkAACAIAAAAAYIEAAMZQgACAQAAgACAAAgAQQAQAA=</HashCode>
+      <FileName>C:\Users\xande\source\repos\XanderDelpin\Computer-Programming-II\Type\MyDate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyTime">
+    <Position X="10.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CEEBAEAAAAhAAAEQAAAABQABAgKAAAAAAABjAAABgxA=</HashCode>
+      <FileName>C:\Users\xande\source\repos\XanderDelpin\Computer-Programming-II\Type\MyTime.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAABAACEAAAAAAAAAAAAAAAAAgQEAABAAQAgAQQJAgA=</HashCode>
+      <FileName>Exam.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExamGenerator" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAQAACQAAgQAAAAAA=</HashCode>
+      <FileName>ExamGenerator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ListaDeCadenas" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAgAAQAQACUAAIAAQAhQAZBAEAAAJAAAAwAAAACAA=</HashCode>
+      <FileName>ListaDeCadenas.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyMenu" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAgCAEAAABAAEAAAAAAACEAAAQCAAAgABAAAAg=</HashCode>
+      <FileName>MyMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyString" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MSAAAAAAAAAAEEAIQAGECQIAAAUAAAKAAIIwAADAQAA=</HashCode>
+      <FileName>MyString.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

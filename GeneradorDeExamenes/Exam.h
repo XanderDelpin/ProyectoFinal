@@ -47,7 +47,7 @@ class Exam
 		void showTime() const;
 
 		void showName() const;
-		void showID();
+		void showID() const;
 
 
 
